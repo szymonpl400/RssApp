@@ -1,0 +1,96 @@
+body 
+{
+	background-color: #202020;
+}
+
+.container
+{
+	position: absolute;
+    left: 20%;
+    top: 10%;
+    height: 80%;
+    width: 100%;
+    background-color: #33383880;
+}
+#email_input{
+	
+    position: relative;
+    left: 0%;
+    top: 10%;
+    height: 40%;
+    width: 100%;
+}
+#email_label{
+	position: relative;
+    left: 0%;
+    top: 50%;
+    height: 10%;
+    width: 100%;
+    color: white;
+}
+#emial_field{
+	position: relative;
+    left: 20%;
+    top: 15%;
+    height: 16%;
+    width: 57%;
+}
+
+#url_input{
+	
+    position: relative;
+    left: 0%;
+    top: 10%;
+    height: 40%;
+    width: 100%;
+}
+#url_label{
+	position: relative;
+    left: 0%;
+    top: 50%;
+    height: 10%;
+    width: 100%;
+    color: white;
+}
+#url_field{
+	position: relative;
+    left: 20%;
+    top: 10%;
+    height: 16%;
+    width: 57%;
+}
+#returnedText{
+	position: relative;
+    left: 20%;
+    top: 8%;
+    height: 40%;
+    width: 57%;
+    background-color: #202020;
+    color: white;
+    overflow: auto;
+}
+#rss_button{
+	width: 100%;
+}
+#button_area{
+	position: relative;
+    left: 20%;
+    top: 10%;
+    height: 8%;
+    width: 57%;
+}
+#rssText{
+	word-wrap: break-word;
+	color: white;
+}
+#spinner
+{
+	position: relative;
+    left: 44%;
+    top: 38%;
+    width: 5rem;
+    height: 5rem;
+}
+.hide{
+	display: none;
+}
